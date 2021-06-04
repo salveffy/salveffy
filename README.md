@@ -1,7 +1,7 @@
 ### Hi, I'm Viktor ✌️
 
 ## I'm a Java Developer
-- I like to spend time at [JavaRush][https://javarush.ru/users/2560211]
+- I like to spend time at [JavaRush][JavaLink]
 ### Launguages and Tools
 - Java Core
 - Sql
@@ -13,3 +13,4 @@
 
 [telegram]: https://t.me/salveffy
 [LinkedIn]: https://www.linkedin.com/in/viktor-sudarinen-02021b214/
+[JavaLink]: https://javarush.ru/users/2560211

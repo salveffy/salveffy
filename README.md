@@ -1,8 +1,12 @@
 ### Hi, I'm Viktor ✌️
 
 ### Launguages and Tools
-- Java Core
+- Manual testing
+- Testing Basics
 - Sql
+- Jira
+- Linux at the user level
+- Java
 
 ### Contact me:
 [Telegram][telegram]

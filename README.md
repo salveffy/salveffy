@@ -1,7 +1,5 @@
 ### Hi, I'm Viktor ✌️
 
-## I'm a Java Developer
-- I like to spend time at [JavaRush][JavaLink]
 ### Launguages and Tools
 - Java Core
 - Sql

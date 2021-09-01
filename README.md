@@ -1,4 +1,4 @@
-### Hey there! I'm Viktor ✌️
+<h2>Hey there! I'm Viktor ✌️</h2>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;

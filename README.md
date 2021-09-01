@@ -22,7 +22,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Contact Me
 <p align="center">
 <a href="https://t.me/salveffy"><img src="https://img.shields.io/badge/-salveffy-0077B5?style=flat&logo=telegram&logoColor=white"/></a>
 <a href="mailto:salveffy@gmail.com"><img src="https://img.shields.io/badge/-salveffy@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>

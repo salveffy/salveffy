@@ -23,11 +23,9 @@
 </a>
 </p>
 
-### Contact me:
-[Telegram][telegram]
-[LinkedIn][LinkedIn]
-
-
-[telegram]: https://t.me/salveffy
-[LinkedIn]: https://www.linkedin.com/in/viktor-sudarinen-02021b214/
-[JavaLink]: https://javarush.ru/users/2560211
+### 🤝🏻 &nbsp;Connect with Me
+<p align="center">
+<a href="https://t.me/salveffy"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/viktor-sudarinen-02021b214/"><img src="https://img.shields.io/badge/-Viktor%20Sudarinen-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:salveffy@gmail.com"><img src="https://img.shields.io/badge/-salveffy@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>

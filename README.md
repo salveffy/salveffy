@@ -1,12 +1,10 @@
-### Hi, I'm Viktor ✌️
+### Hey there! I'm Viktor ✌️
 
-### Launguages and Tools
-- Manual testing
-- Testing Basics
-- Sql
-- Jira
-- Linux at the user level
-- Java
+### Tech Stack
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue)&nbsp;
 
 ### Contact me:
 [Telegram][telegram]

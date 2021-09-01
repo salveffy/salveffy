@@ -19,6 +19,9 @@
 [LinkedIn][LinkedIn]
 
 
+### ⚙️ &nbsp;GitHub Analytics
+
+
 [telegram]: https://t.me/salveffy
 [LinkedIn]: https://www.linkedin.com/in/viktor-sudarinen-02021b214/
 [JavaLink]: https://javarush.ru/users/2560211

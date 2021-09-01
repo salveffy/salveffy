@@ -18,8 +18,8 @@
 
 <p align="center">
 <a href="https://github.com/salveffy">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=salveffy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=salveffy&layout=compact&langs_count=8&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=salveffy&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=salveffy&layout=compact&langs_count=8&theme=nord"/>
 </a>
 </p>
 

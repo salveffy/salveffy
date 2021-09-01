@@ -24,7 +24,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-<a href="https://t.me/salveffy"><img src="https://img.shields.io/badge/-salveffy-0077B5?style=flat&logo=telegram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/viktor-sudarinen-02021b214/"><img src="https://img.shields.io/badge/-Viktor%20Sudarinen-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/salveffy"><img src="https://img.shields.io/badge/-salveffy-0077B5?style=flat&logo=telegram&logoColor=white"/></a>
 <a href="mailto:salveffy@gmail.com"><img src="https://img.shields.io/badge/-salveffy@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>

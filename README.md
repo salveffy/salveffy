@@ -11,7 +11,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex)&nbsp;
 
-{::comment}
+<!---
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/salveffy">
@@ -19,7 +19,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=salveffy&layout=compact&langs_count=8&theme=nord"/>
 </a>
 </p>
-{:/comment}
+--->
 
 ### 🤝🏻 &nbsp;Contact Me
 <p align="center">
